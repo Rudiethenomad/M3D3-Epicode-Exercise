@@ -1,0 +1,80 @@
+body {
+    background-color: grey;
+    margin: 15px;
+}
+
+hr{
+background-color:black;
+}
+.first-strike{
+display: flex;
+justify-content: flex-end;
+
+}
+.fav-album{
+display:flex;
+justify-content: center;
+
+
+}
+.navbar-nav{
+background-color: rgb(180, 178, 178);
+}
+.card-fav{
+width: 600px;
+background-color: white;
+border: solid;
+}
+h1{
+text-align: center;
+color:rgb(33, 33, 195);
+}
+.spacer{
+height: 50px;
+}
+.biography{
+height: 600px;
+}
+footer{
+display: flex;
+justify-content: center;
+color:rgb(33, 33, 195);
+}
+.btn {
+display: flex;
+justify-content: center;
+align-content:flex-end ;
+
+}
+img{
+height: 400px;
+}
+h4{
+text-align: center;
+}
+p{
+text-align: center;
+}
+.card{
+height: 550px;
+}
+.bad-artist{
+text-align: center;
+color:rgb(33, 33, 195); ;
+}
+.first-table{
+color: rgb(33, 33, 195);
+width: 40%;
+border: solid;
+}
+tr{
+color:rgb(33, 33, 195);
+}
+td{
+color: rgb(33, 33, 195);
+}
+#shop{
+font-size:50px;
+color: rgb(33, 33, 195);
+
+}
